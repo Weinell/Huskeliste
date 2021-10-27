@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Huskeliste:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Huskeliste</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Huskeliste-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Huskeliste:war exploded" />
+    </root>
+  </artifact>
+</component>
