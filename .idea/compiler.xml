@@ -10,7 +10,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Huskeliste" target="1.8" />
+      <module name="Huskeliste" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Huskeliste" options="-endorseddirs C:\Users\Frederik\dev\Huskeliste\target/endorsed" />
+    </option>
   </component>
 </project>
