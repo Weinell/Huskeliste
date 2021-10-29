@@ -18,9 +18,9 @@ import javax.servlet.http.HttpServletResponse;
 public class FrontController extends HttpServlet
 {
     //TODO: connect to database
-    private final static String USER = "user";
-    private final static String PASSWORD = "pass";
-    private final static String URL = "jdbc:mysql://localhost:3306/startcode?serverTimezone=CET";
+    private final static String USER = "fred";
+    private final static String PASSWORD = "Skumbanan2712!";
+    private final static String URL = "jdbc:mysql://161.35.214.156:3306/huskeliste?serverTimezone=CET";
 
     public static Database database;
 

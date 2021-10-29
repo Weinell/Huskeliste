@@ -50,5 +50,4 @@ public abstract class Command
             HttpServletRequest request,
             HttpServletResponse response)
             throws UserException;
-
 }
