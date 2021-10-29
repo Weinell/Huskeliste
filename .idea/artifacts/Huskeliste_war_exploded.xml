@@ -21,7 +21,6 @@
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.19" />
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="library" level="project" name="Maven: com.microsoft.sqlserver:mssql-jdbc:9.4.0.jre11" />
         </element>
       </element>
       <element id="directory" name="META-INF">

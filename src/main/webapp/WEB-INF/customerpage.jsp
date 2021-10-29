@@ -13,12 +13,7 @@
         <h1>Hello ${sessionScope.email} </h1>
         You are now logged in as a Customer of our wonderful site.
         Role: ${sessionScope.role}
-
-        <form action="customerpage" method="post">
-            <input type="text" name="topic" placeholder="ølbong">
-            <input type="submit" value="Tilføj">
-        </form>
-
     </jsp:body>
+
 </t:genericpage>
 
